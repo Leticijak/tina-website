@@ -1,3 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Changa+One&family=Faster+One&family=Fredoka+One&family=Montserrat:wght@300;400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700;800&family=Russo+One&display=swap');
 html,
 body {
   padding: 0;
@@ -23,4 +28,55 @@ a {
     color: white;
     background: black;
   }
+}
+
+/* DUMMY */
+.bloom {
+  color: #283a22;
+  color: #65a293;
+  color: #688c4f;
+  color: #b59fb6;
+  color: #a354a3;
+}
+/* Color Palette #47 */
+.waterfall {
+  color: #c6e6f5;
+  color: #87bbd0;
+  color: #417670;
+  color: #336a7e;
+  color: #002d3c;
+}
+
+/* Color Palette #63 */
+.fireflower {
+  color: #4e003c;
+  color: #831a6c;
+  color: #f4c8c9;
+  color: #fdeb01;
+  color: #d59005;
+}
+/* Color Palette #132 */
+
+.lavander {
+  color: #051016;
+  color: #203844;
+  color: #bcebc9;
+  color: #9a5492;
+  color: #511932;
+}
+/* Color Palette #540 */
+.blossom {
+  color: #cdf5db;
+  color: #8bd1d3;
+  color: #c0aec4;
+  color: #96439d;
+  color: #390164;
+}
+/* Color Palette #796 */
+.seasunset {
+  color: #041f32;
+  color: #513754;
+  color: #907193;
+  color: #ffad98;
+  color: #f2766e;
 }
